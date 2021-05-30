@@ -1,0 +1,5 @@
+a=input("enter a no.")
+a=int(a)
+b=input("enter second no.")
+b=int(b)
+print("reminer is here",a%b) 
